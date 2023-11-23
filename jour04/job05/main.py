@@ -1,5 +1,5 @@
 # 'S' comme Stage en Anglais, définie juste les étapes. D'où : S2, S3 et S4
-L= ["1", "2", "3", "4", "5"]
+L= [1, 2, 3, 4, 5 ]
 print(L)
 
 #Affichage de la deuxième valeur de la liste.
