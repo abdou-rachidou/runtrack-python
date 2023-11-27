@@ -22,7 +22,7 @@ def chiffrement_cesar(message, decalage):
     return message_chiffre
 
 # Exemple d'utilisation
-message_original = "abcdefghijklmnopqrstuvwxyz"
+message_original = "Bonjour, comment ca va ?"
 decalage = 3
 message_chiffre = chiffrement_cesar(message_original, decalage)
 
